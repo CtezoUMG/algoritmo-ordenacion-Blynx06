@@ -1,0 +1,15 @@
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.AssemblyInfoInputs.cache
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.AssemblyInfo.cs
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.csproj.CoreCompileInputs.cache
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.sourcelink.json
+C:\Users\berly\algoritmo-ordenacion-Blynx06\bin\Debug\net10.0\AlgoOrder.exe
+C:\Users\berly\algoritmo-ordenacion-Blynx06\bin\Debug\net10.0\AlgoOrder.deps.json
+C:\Users\berly\algoritmo-ordenacion-Blynx06\bin\Debug\net10.0\AlgoOrder.runtimeconfig.json
+C:\Users\berly\algoritmo-ordenacion-Blynx06\bin\Debug\net10.0\AlgoOrder.dll
+C:\Users\berly\algoritmo-ordenacion-Blynx06\bin\Debug\net10.0\AlgoOrder.pdb
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.dll
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\refint\AlgoOrder.dll
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.pdb
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\AlgoOrder.genruntimeconfig.cache
+C:\Users\berly\algoritmo-ordenacion-Blynx06\obj\Debug\net10.0\ref\AlgoOrder.dll
